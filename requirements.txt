@@ -1,0 +1,8 @@
+# see https://github.com/getsentry/sentry-redmine/issues/16 for more information
+redis-py-cluster==1.3.4
+
+# Google Auth
+https://github.com/getsentry/sentry-auth-google/archive/master.zip
+
+# Redmine
+https://github.com/getsentry/sentry-redmine/archive/master.zip
